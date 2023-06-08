@@ -1,10 +1,10 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Unit Test - Testing individual components / parts of the application.
+2. Integration Test - Tests integrated components' interaction/communication with one another.
+3. System Test - Testing the entire system as a whole.
+4. Acceptance Test - Testing done by end users/customers. This also makes sure that application aligns with business goals.
+5. False
+6. JUnit Jupiter
+7. assertEquals - assert if expected and actual values are equals
+8. assertNull - asserts if actual value is null
+9. assertArrayEquals - assert if expected and actual arrays are equals
+10. assertNotEquals - assert if expected and actual values are NOT equals
